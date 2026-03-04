@@ -5,8 +5,9 @@ export default function Networking() {
 
       <h3>DNS</h3>
       <p>
-        DNS translates a domain name into an IP address so browsers can find
-        the correct server.
+        Our domain, ashaiman.github.io,  uses DNS to link the domain name into a machine readable IP address so the browser can locate the server.
+        As shown below, the nslookup command shows our doman points to Github Pages. 
+        This allows the public to access the site using a name instead of a numeric IP address.
       </p>
 
       <h3>IP Addressing</h3>
